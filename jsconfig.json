@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "Components/*": [
+        "Components/*"
+      ],
+      "ResuableFunctions/*": [
+        "ResuableFunctions/*"
+      ],
+      "Security/*": [
+        "Security/*"
+      ],
+      "Stylesheet/*": [
+        "Stylesheet/*"
+      ],
+      "Assets/*": [
+        "Assets/*"
+      ],
+      "Services/*": [
+        "Services/*"
+      ],
+      "Utils/*": [
+        "Utils/*"
+      ],
+      "Views/*": [
+        "Views/*"
+      ]
+    }
+  },
+  "include": [
+    "src"
+  ]
+}
